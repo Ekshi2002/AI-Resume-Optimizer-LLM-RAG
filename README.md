@@ -102,7 +102,7 @@ python app.py
 Backend runs at:
 
 ```text
-http://localhost:5000
+https://ai-resume-optimizer-llm-rag.onrender.com/analyze
 ```
 
 ### 2. Frontend
